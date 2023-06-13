@@ -1,0 +1,27 @@
+p{
+    color: black(0, 0, 0);
+    background-color: red;
+    font-size: 30px;
+    border-radius: 8px;
+    text-align: center;
+}
+#btn{
+    padding: 10px 40px;
+    color: white;
+    background-color: black;
+}
+#btn:hover{
+    background-color: blueviolet;
+}
+#changeBtn{
+    padding: 10px 40px;
+    color: white;
+    background-color: black;
+}
+#changeBtn:hover{
+    background-color: blueviolet;
+}
+img{
+    width: 15%;
+    margin: 0 50px;
+}
